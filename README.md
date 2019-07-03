@@ -1,1 +1,0 @@
-# PermCTF all tasks
