@@ -1,0 +1,3 @@
+стандарт шифрования данных в США до AES
+
+U2FsdGVkX1+qnLxXyJOOTUDA1EES9r1kh4a4FXEQad/WI+wanMN+HMfJqUV1dpis

@@ -1,0 +1,1 @@
+PermCTF{it_is_a_funny_cipher}

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <style>
+          body{
+              background-image: url(used/not_a_fl4g.jpg);
+          }
+      </style>
+    <meta charset="utf-8">
+    <title>Task</title>
+  </head>
+  <body>
+    <div class="col-md-4 col-md-offset-4" style="padding-top: 10%">
+
+          <div class="checkbox">
+          <?php
+          
+      if (isset($_GET['needed'])){
+      
+        if ($_GET['needed'] ==='gimmeflag' ){
+          echo '$_FLAG'
+        }
+      }
+      ?>
+          </div>
+      </div>
+  </body>
+</html>
+</body>
+</html>

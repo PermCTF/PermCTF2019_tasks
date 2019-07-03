@@ -1,0 +1,1 @@
+PermCTF{close_your_mind}
